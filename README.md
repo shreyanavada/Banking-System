@@ -1,5 +1,9 @@
 # Banking-System
 
+## Problem Statement
+To design and implement a simple banking system in C++ that allows users to manage bank accounts and perform basic banking operations using object-oriented programming and file handling.
+
+## Description 
 This project is a console-based Banking System developed using C++.  
 It allows users to create bank accounts, deposit and withdraw money, check account balances, and close accounts.
 
